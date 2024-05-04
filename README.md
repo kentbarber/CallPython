@@ -16,5 +16,5 @@ c:\Program Files\Maxon Cinema 4D R2024>"Cinema 4D.exe" -runpython "F:\createcube
 The variables doc and op are defined and can be used directly in the python script, where op is the first object in the scene.
 
 ## Included Files
-afterloadpython.py - a simple script that write a message to the console python log after a scene has been loaded
-createcube.py - a simple script to create a cube in the scene
+- afterloadpython.py - a simple script that writes a message to the console python log after a scene has been loaded
+- createcube.py - a simple script to create a cube in the scene
